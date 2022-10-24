@@ -1,2 +1,0 @@
-# rapaclass
-this is hyunho
